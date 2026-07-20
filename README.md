@@ -10,10 +10,10 @@
 - ✍️ I write under Clear Byte — write-ups, reference guides, and essays for tech-curious minds
 
 ### Connect with me:
-[<img align="left" alt="Website" width="22px" src="https://api.iconify.design/oi:globe.svg?color=white" />][website]
-[<img align="left" alt="Kenny Wolf | LinkedIn" width="22px" src="https://cdn.simpleicons.org/linkedin/white" />][linkedin]
-[<img align="left" alt="Clear Byte Docs" width="22px" src="https://api.iconify.design/oi:book.svg?color=white" />][docs]
-[<img align="left" alt="Clear Byte Blog" width="22px" src="https://api.iconify.design/oi:pencil.svg?color=white" />][blog]
+[<img align="left" alt="Website" width="22px" src="https://api.iconify.design/oi/globe.svg?color=white" />][website]
+[<img align="left" alt="Kenny Wolf | LinkedIn" width="22px" src="https://api.iconify.design/simple-icons/linkedin.svg?color=white" />][linkedin]
+[<img align="left" alt="Clear Byte Docs" width="22px" src="https://api.iconify.design/oi/book.svg?color=white" />][docs]
+[<img align="left" alt="Clear Byte Blog" width="22px" src="https://api.iconify.design/oi/pencil.svg?color=white" />][blog]
 
 [website]: https://kennywolf.info
 [linkedin]: https://linkedin.com/in/kennywolf-dev/
